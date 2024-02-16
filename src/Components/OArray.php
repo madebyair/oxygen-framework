@@ -1,4 +1,5 @@
 <?php
+namespace Oxygen\Components;
 
 class OArray
 {
