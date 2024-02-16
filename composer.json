@@ -1,0 +1,17 @@
+{
+    "name": "oxygen-framework/framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oxygen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oskar Nizioł",
+            "email": "oskarniziol@gmail.com"
+        }
+    ],
+    "require": {}
+}
